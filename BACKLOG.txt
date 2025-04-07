@@ -1,0 +1,70 @@
+USERS STORIES
+
+HTML
+
+Créer une page index
+En tant qu'utilisateur je veux voir une page d'accueil claire
+
+Créer un espace user
+En tant qu'utilisateur je veux avoir un espace personnel pour voir ou changer mes informations
+
+Créer un espace admin
+En tant qu'administrateur je veux un espace pour gérer les utilisateurs et les contenus du site
+
+Créer un header et footer
+En tant qu'utilisateur je veux un en-tête et un pied de page sur toutes les pages pour me repérer facilement
+
+Créer un espace pour utiliser les données sous forme de tableau
+En tant qu'utilisateur je veux voir les données dans un tableau pour les lire et les comprendre plus facilement
+
+Ajouter une barre de recherche
+En tant qu'utilisateur je veux chercher des informations sur le site pour trouver ce que je veux rapidement
+
+Créer des filtres pour les données
+En tant qu'utilisateur je veux filtrer les données pour ne voir que ce qui m'intéresse
+
+Créer une page feedback
+En tant qu'utilisateur je veux laisser un commentaire pour apporter un avis utilisateur
+
+Créer une page contact
+En tant qu'utilisateur je veux pouvoir envoyer un message aux responsables du site pour poser une question ou signaler un problème
+
+CSS
+
+Rendre mon site ergonomique
+En tant qu'utilisateur je veux que le site soit facile à utiliser sur tous les appareils pour avoir une bonne expérience
+
+PHP/SQL
+
+Créer une database fonctionnelle
+En tant que développeur je veux une base de données bien organisée pour stocker les informations du site
+
+Pouvoir se connecter à la base de données
+En tant que développeur je veux que le site soit relié à la base de données pour lire et écrire des informations
+
+Préparer des requêtes SQL
+En tant que développeur je veux écrire des requêtes SQL pour envoyer ou recevoir des données depuis la base
+
+Pouvoir se connecter/créer un compte/déconnecter
+En tant qu'utilisateur je veux créer un compte me connecter et me déconnecter pour accéder à mon espace personnel
+
+Ajouter de l'AJAX afin d'éviter de reload la page
+En tant qu'utilisateur je veux que certaines actions se fassent sans recharger la page pour que ce soit plus rapide
+
+Pouvoir importer une photo de profil
+En tant qu'utilisateur je veux ajouter une photo à mon profil pour le personnaliser
+
+Pouvoir commenter
+En tant qu'utilisateur je veux écrire un commentaire pour donner mon avis ou poser une question
+
+Gérer les erreurs
+En tant qu'utilisateur je veux que le site m'affiche un message clair quand il y a une erreur pour que je sache quoi faire
+
+JS
+
+Rendre le site dynamique avec des animations/changements de couleurs
+En tant qu'utilisateur je veux voir des petits effets visuels pour que le site soit plus agréable à utiliser
+
+
+
+
